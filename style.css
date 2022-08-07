@@ -1,0 +1,7 @@
+.container {
+ margin:50px;
+}
+.googlesheet-iframe{
+    width: 100%;
+    height: 80vh;
+}

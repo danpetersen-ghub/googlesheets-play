@@ -1,0 +1,11 @@
+{
+  "name": "googlesheets",
+  "version": "1.0.0",
+  "description": "googlesheets API",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Dan Petersen",
+  "license": "MIT"
+}
